@@ -1,2 +1,3 @@
 # teszt
-VSCode-ban írtam
+ezt VSCode-ban írtam
+hozzáadok még egy sort
